@@ -13,6 +13,21 @@ video
 
 Good luck 🙂
 
+# home
+<img src="https://user-images.githubusercontent.com/69330783/204656586-3a0f1f6a-59bc-4701-9939-e9e9fd9ca178.png" width="300" height="500">
+# shop list
+<img src="https://user-images.githubusercontent.com/69330783/204656607-81d77f9d-96e7-4547-87fa-19b6b424af68.png" width="300" height="500">
+# menu
+<img src="https://user-images.githubusercontent.com/69330783/204656614-24fe0904-ef06-4289-87b8-2efe016e3990.png" width="300" height="500">
+# dark theme
+<img src="https://user-images.githubusercontent.com/69330783/204656659-7318f9a6-8306-42fc-be72-ba3d4ca331e3.png" width="300" height="500">
+# search
+<img src="https://user-images.githubusercontent.com/69330783/204656722-617e7efb-e601-4925-9338-824aa9a7b713.png" width="300" height="500">
+# text filed
+<img src="https://user-images.githubusercontent.com/69330783/204657828-04acf2f6-6462-44a6-a446-1920abfb53ab.png" width="300" height="500">
+
+
+
 A new Flutter project.
 
 ## Getting Started
