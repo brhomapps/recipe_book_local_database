@@ -1,10 +1,10 @@
 # recipe_book_local_database
 
-hi friend, this my_recipe_book app with local database qflite + provider + path_provider +
-image_picker and favorite page, search, dark theme, shop list
+
 
 # Please help me as I helped you by subscribe to the channel and putting a good comment and liking the
 video
+https://youtu.be/dbPrd73CRag
 
 # Our site:
 - [https://flutter.a-2-z.site/]
