@@ -1,10 +1,10 @@
 # recipe_book_local_database
 
 
-
-# Please help me as I helped you by subscribe to the channel and putting a good comment and liking the
+Please help me as I helped you by subscribe to the channel and putting a good comment and liking the
 video
-https://youtu.be/dbPrd73CRag
+# Video Tutorial
+[https://youtu.be/dbPrd73CRag]
 
 # Our site:
 - [https://flutter.a-2-z.site/]
