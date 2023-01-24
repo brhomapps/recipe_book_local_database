@@ -1,9 +1,22 @@
 # recipe_book_local_database
 
 Complete Recipe Book with Local Database Using sqflite Flutter
+In this flutter video tutoril we will learn how to build  Recipe Book with Local Database Using sqflite Flutter App with this future
+
+App Works in Offline Mode
+List Of Recipes
+Recipe Detail Screen (Name Recipe, Ingredients, Instruction, Preparation Time)
+Search Bar for Recipes
+Favorite Recipes
+Dark Mode
+Splash Screen
+Beautiful UI Design
+Images Loaded from Locally [Camera or Gallery]
+Support Both Android And IOS
 
 Please help me as I helped you by subscribe to the channel and putting a good comment and liking the
 video
+
 # Video Tutorial
 [https://youtu.be/dbPrd73CRag]
 
